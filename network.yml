@@ -220,6 +220,7 @@ Resources:
 
 
 Outputs: #outputs variables that can be used in other scripts  
+#this values are shared globally accross AWS account 
 
     VPC: 
         Description: A reference to the created VPC
