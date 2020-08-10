@@ -12,3 +12,6 @@ http://udaci-WebAp-FKE47NXMP3LN-637003319.us-west-2.elb.amazonaws.com
 - **update.sh :** Shell Script for updating existing Stack. Takes 3 command line arguments*.
 
 **Those arguments are stack name, CloudFormation script name and parameter file name*
+
+## Stack Diagram
+![Alt text](https://github.com/mahdiuzzaman/CloudFormation/blob/master/cloud%20formation.jpeg?raw=true)
