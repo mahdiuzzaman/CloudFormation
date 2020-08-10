@@ -1,5 +1,8 @@
 # CloudFormation Script
 
+## Load Balancer URL
+http://udaci-WebAp-FKE47NXMP3LN-637003319.us-west-2.elb.amazonaws.com
+
 ## Script Description
 - **network.yml :** CloudFormation script for creating Network stack  
 - **server.yml :** CloudFormation script for creating Server stack
